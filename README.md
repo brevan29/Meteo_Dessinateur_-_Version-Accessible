@@ -8,7 +8,7 @@
 
 ***Pour tout le monde :***
   - */!\ Vous devez avoir installé python sur votre machine*
-  - Téléchargez le code source et décompréssez-le,*le fichier mentionné plus n'est absolument pas le code source !.*
+  - Téléchargez le code source et décompréssez-le. *Le fichier mentionné plus n'est absolument pas le code source !*
   - Ouvrez le terminal (ligne de commande si vous voulez et écrivez :
   -  `python #glissez-déposez le fichier main.py pour que le programme copie et colle le chemin d'accès`
   -   Sous linux et macOS, il faut écrire `python3` au lieu de `python`
