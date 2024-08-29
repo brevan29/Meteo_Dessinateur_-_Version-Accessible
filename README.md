@@ -1,5 +1,5 @@
 ### © Brévan HAMEL - 2023-24
-##Comment utiliser le code : 
+###Comment utiliser le code : 
 
 ***Pour Windows uniquement:***
   - Télécharger le dossier compressé, le décompresser.
@@ -7,7 +7,7 @@
   - Si vous avez un problème lors de l’exécution, je vous conseille de passer à la deuxième méthode
 
 ***Pour tout le monde :***
-*/!\ Vous devez avoir installé python sur votre machine*
+  - */!\ Vous devez avoir installé python sur votre machine*
   - Télécharger le code source, créez un fichier quelque part au format *.sh sous Linux et macOS*, *.ps1 sous Windows*.
 Au format .sh, le script doit commencer par #!/bin/bash.
 
