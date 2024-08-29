@@ -8,10 +8,8 @@
 
 ***Pour tout le monde :***
   - */!\ Vous devez avoir installé python sur votre machine*
-  - Télécharger le code source, créez un fichier quelque part au format *.sh sous Linux et macOS*, *.ps1 sous Windows*. ***Au format .sh, le script doit commencer par `#!/bin/bash`.***
-
-Écrivez python3 et glissez-déposez le fichier main.py sur l’éditeur. 
-Sous Windows python suffit (pas besoin du 3)
-(Si ce n’est pas possible, bon courage pour recopier le chemin, de préférence depuis la racine, C: sous windows;
-Si il y a des espaces dans le nom de certains dossiers, mettez votre chemin d’accès entre chaînes de caractères.)
-Prenez exemple avec les fichiers proposés en dessous, À modifier pour que cela corresponde tout de même.
+  - Téléchargez le code source et décompréssez-le.
+  - Ouvrez le terminal (ligne de commande si vous voulez et écrivez :
+    `python #glissez-déposez le fichier main.py pour que le programme copie et colle le chemin d'accès`
+    Sous linux et macOS, il faut écrire `python3` au lieux de `python`
+    
