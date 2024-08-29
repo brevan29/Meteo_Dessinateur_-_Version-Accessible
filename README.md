@@ -11,5 +11,5 @@
   - Téléchargez le code source et décompréssez-le.
   - Ouvrez le terminal (ligne de commande si vous voulez et écrivez :
   -  `python #glissez-déposez le fichier main.py pour que le programme copie et colle le chemin d'accès`
-  -   Sous linux et macOS, il faut écrire `python3` au lieux de `python`
-    
+  -   Sous linux et macOS, il faut écrire `python3` au lieu de `python`
+Le tour est joué, pour les utilisateurs du terminal, ne le fermez pas durant l'éxécution sous peine de fermer aussi les fentêtres ouvertes     
